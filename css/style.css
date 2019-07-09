@@ -395,8 +395,8 @@ header {
 	height: 458px;
 	margin-right: 65px;
 	/*background-color: #eb6d4a8f;*/
-	background-color: red;
-	opacity: 0.8;
+	background-color: #e43730;
+	/*opacity: 0.8;*/
 }
 
 .main-member-info {
@@ -465,8 +465,8 @@ header {
 	width: 197px;
 	height: 214px;
 	/*background-color: #d4dce680;*/
-	background-color: red;
-	opacity: 0.8;
+	background-color: #e43730;
+	/*opacity: 0.8;*/
 }
 
 /* Subscribe */
